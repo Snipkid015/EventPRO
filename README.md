@@ -11,7 +11,6 @@ EventPro/
 ├── README.md        # The project documentation
 └── assets/          # (Optional) Folder for future assets (e.g., images, fonts)
 
-
 ---
 
 ### *README.md*
